@@ -1,0 +1,24 @@
+{
+                        "new_game": 1,
+                        "i_text": 0,
+                        "level": 0,
+                        "task_points_need": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "task_points_now": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "health": 10,
+                        "eat": 1,
+                        "map_interval": [
+                            -1
+                        ],
+                        "source": 0,
+                        "esc": 0
+                    }
