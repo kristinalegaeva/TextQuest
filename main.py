@@ -43,7 +43,7 @@ class MainQuest():
         if self.f_click == 0:
             if key.name == 'enter':
                 if self.i_line >= len(self.line):
-                    if self.i_text<len(self.line)-1:
+                    if self.i_text<len(self.text)-1:
                         self.i_text += 1
                     else:
                         self.i_text -= 1
